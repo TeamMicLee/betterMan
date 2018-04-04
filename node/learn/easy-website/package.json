@@ -1,0 +1,11 @@
+{
+  "name": "easy-website",
+  "version": "1.0.0",
+  "description": "An easy website by node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "litao",
+  "license": "ISC"
+}
